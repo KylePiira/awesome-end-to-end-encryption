@@ -3,9 +3,9 @@ A list of awesome end to end encrypted apps.
 
 ## Contents
 - [Messaging](#Messaging)
-- [File Sync](#File)
+- [File Sync](#File-Sync)
 - [Email](#Email)
-- [Personal Information Managment (PIM)](#Personal)
+- [Personal Information Managment (PIM)](#Personal-Information-Managment-PIM)
 
 # Messaging
 
