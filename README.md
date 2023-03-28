@@ -17,6 +17,7 @@ A list of awesome end to end encrypted apps.
 * [Mega Cloud](https://mega.nz/) - sync files and folders between Windows, macOS, Linux, Android, and iOS. Offers 50 GB for free.
 * [Sync.com](https://www.sync.com/) - sync files and folders between Windows, macOS, Android, and iOS. Offers 5 GB for free.
 * [Firefox Send](https://send.firefox.com/) - upload and share files up to 2.5 GB in size via a link
+* [Polybase](https://polybase.xyz) - an open-source decentralized alternative to Firebase, Firestore, Postgres, etc. 
 
 # Email
 * [ProtonMail](https://protonmail.com/) - email hosting with end-to-end encryption on your inbox and emails to other ProtonMail users. Offers 500 MB for free.
